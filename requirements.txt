@@ -1,0 +1,10 @@
+streamlit
+googlemaps
+requests
+pandas
+openpyxl
+xlrd
+groq
+beautifulsoup4
+xlsxwriter
+python-dotenv
